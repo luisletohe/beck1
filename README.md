@@ -1,4 +1,5 @@
 # Backend Project - Implementación de Passport, JWT, Express, Node.js, Router, Middleware, Socket, etc.
+
 Este proyecto de estudio se enfoca en la implementación de varias librerías y tecnologías en el lado del backend para desarrollar una aplicación web segura y escalable. A continuación, se proporciona una descripción general de los conceptos y componentes clave abordados en el proyecto.
 
 Descripción del proyecto
@@ -27,10 +28,10 @@ Configuración de rutas utilizando el Router de Express para organizar la lógic
 
 Implementación de middleware personalizados para tareas como la autenticación, validación de datos, registro de solicitudes, etc.
 
-Utilización de la tecnología Socket para habilitar la comunicación bidireccional en tiempo real entre el servidor y el cliente. 
+Utilización de la tecnología Socket para habilitar la comunicación bidireccional en tiempo real entre el servidor y el cliente.
 
 Créditos
-Este proyecto fue creado por Mitchell Davila.
+Este proyecto fue creado por Luis Alejandro Torres Hernandez.
 
 Contacto
-Si tienes alguna pregunta o sugerencia relacionada con este proyecto, por favor contáctame a través de Mitchel2206@gmail.com.
+Si tienes alguna pregunta o sugerencia relacionada con este proyecto, por favor contáctame a través de luis.aletohe@gmail.com
