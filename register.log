@@ -1,0 +1,1255 @@
+{"level":"warn","message":"Error de autenticacion"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"code":8,"level":"error","name":"Problema en agregar pid al cid"}
+{"code":8,"level":"error","name":"Probl en eliminar pid del cid"}
+{"level":"error","message":"No se elimino el producto 649757a0b9262303eb411dc7 del carrito"}
+{"level":"error","message":"No se elimino el producto 649757a0b9262303eb411dc7 del carrito"}
+{"level":"error","message":"No se obtuvieron los productos de la base de dato"}
+{"level":"error","message":"No se obtuvieron los productos de la base de dato"}
+{"level":"error","message":"No se creo el carrito"}
+{"level":"error","message":"No se creo el carrito"}
+{"level":"error","message":"No se logro agregar el producto 64975c52b01e334ba314f239"}
+{"level":"error","message":"No se logro agregar el producto 64975af3b9262303eb411e69"}
+{"level":"error","message":"No se logro agregar el producto 64975af3b9262303eb411e69"}
+{"level":"error","message":"No se creo el carrito"}
+{"level":"error","message":"No se creo el carrito"}
+{"level":"error","message":"No se creo el carrito"}
+{"level":"error","message":"No se logro agregar el producto 64975c52b01e334ba314f239"}
+{"level":"error","message":"No se logro agregar el producto 64975c52b01e334ba314f239"}
+{"level":"warn","message":"no hay stock del producto 64975c52b01e334ba314f239"}
+{"level":"warn","message":"no hay stock del producto 64b30d1e07beaf1e84b19118"}
+{"level":"warn","message":"no hay stock del producto 64975c52b01e334ba314f239"}
+{"level":"warn","message":"no hay stock del producto 64b30d1e07beaf1e84b19118"}
+{"level":"warn","message":"no hay stock del producto 64b30d1e07beaf1e84b19118"}
+{"level":"warn","message":"no hay stock del producto 64b30d1e07beaf1e84b19118"}
+{"level":"warn","message":"no hay stock del producto 64b30d1e07beaf1e84b19118"}
+{"level":"warn","message":"no hay stock del producto 64b30d1e07beaf1e84b19118"}
+{"level":"warn","message":"no hay stock del producto 64974fccb9262303eb411d15"}
+{"level":"warn","message":"no hay stock del producto 64974fccb9262303eb411d15"}
+{"level":"warn","message":"login error"}
+{"level":"warn","message":"login error"}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"error","message":"No se logro agregar el producto 649759deb9262303eb411e49"}
+{"level":"error","message":"No se logro agregar el producto 64975c52b01e334ba314f239"}
+{"level":"error","message":"No se logro agregar el producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"No se logro agregar el producto 649759deb9262303eb411e49"}
+{"level":"error","message":"No se logro agregar el producto 64975a76b9262303eb411e59"}
+{"level":"error","message":"No se logro agregar el producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"No se logro agregar el producto 64975c52b01e334ba314f239"}
+{"level":"error","message":"No se logro agregar el producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"No se logro agregar el producto 64975c52b01e334ba314f239"}
+{"level":"warn","message":"no hay stock del producto 64975a76b9262303eb411e59"}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca Grafiti: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca Grafiti: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca Grafiti: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"warn","message":"no se pudo comprar el producto {\n  _id: new ObjectId(\"64975c52b01e334ba314f239\"),\n  title: 'Remera Blanca Grafiti',\n  descripcion: 'CLASIC',\n  thumbnail: 'https://www.distritomoda.com.ar/sites/default/files/styles/product_medium/public/imagenes/1809_i_1686809909.jpg?itok=3yImJP5N',\n  price: 6800,\n  code: 'R15B59',\n  stock: -12,\n  __v: 0\n} por falta de stock"}
+{"level":"warn","message":"no se pudo comprar el producto. su stock es -12 "}
+{"level":"warn","message":"no hay stock del producto 649759deb9262303eb411e49"}
+{"level":"warn","message":"no hay stock del producto 649757a0b9262303eb411dc7"}
+{"level":"warn","message":"no hay stock del producto 64975a76b9262303eb411e59"}
+{"level":"warn","message":"no hay stock del producto 64974fccb9262303eb411d15"}
+{"level":"warn","message":"no se pudo comprar el producto. su stock es 0 "}
+{"level":"warn","message":"no se pudo comprar el producto. su stock es 0 "}
+{"level":"warn","message":"no se pudo comprar el producto. su stock es 0 "}
+{"level":"warn","message":"no se pudo comprar el producto. su stock es 0 "}
+{"level":"warn","message":"no se pudo comprar el producto. su stock es 0 "}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca Grafiti: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Marron: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca Grafiti: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Marron: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"No se logro agregar el producto 649759deb9262303eb411e49"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649759deb9262303eb411e49"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649759deb9262303eb411e49"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca Grafiti: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Marron: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca Grafiti: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"No se logro agregar el producto 649759deb9262303eb411e49"}
+{"level":"error","message":"Error al actualizar el stock para Remera Marron: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"Error al actualizar el stock para Remera verde oscur: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Negra: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Negra: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Cust: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"error","message":"Error al actualizar el stock para Remera Azul: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Cust: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"No se logro agregar el producto 64d98138bb99882c6fa2cdaf"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 64975a76b9262303eb411e59"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"No se logro agregar el producto 649759deb9262303eb411e49"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Negra: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Azul: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Marron: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera verde oscur: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"error","message":"Error al generar el ticket Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al generar el ticket Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al generar el ticket Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al generar el ticket Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al generar el ticket Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"No se logro agregar el producto 649759deb9262303eb411e49"}
+{"level":"error","message":"Error al generar el ticket Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Azul: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"error","message":"No se logro agregar el producto 64975a76b9262303eb411e59"}
+{"level":"error","message":"No se logro agregar el producto 64974fccb9262303eb411d15"}
+{"level":"error","message":"Error al actualizar el stock para Remera Negra: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Cust: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Blanca: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Cust: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Negra: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Error al actualizar el stock para Remera Azul: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client"}
+{"level":"error","message":"No se logro agregar el producto 64974fccb9262303eb411d15"}
+{"level":"error","message":"No se logro agregar el producto 64974fccb9262303eb411d15"}
+{"level":"error","message":"No se logro agregar el producto 64974fccb9262303eb411d15"}
+{"level":"error","message":"No se logro agregar el producto 64974fccb9262303eb411d15"}
+{"level":"error","message":"No se logro agregar el producto 64974fccb9262303eb411d15"}
+{"level":"error","message":"No se logro agregar el producto 649757a0b9262303eb411dc7"}
+{"level":"error","message":"No se logro agregar el producto 649759deb9262303eb411e49"}
+{"level":"error","message":"No se logro agregar el producto 64975a76b9262303eb411e59"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"error","message":"Error al generar el ticket"}
+{"level":"error","message":"Error al generar el ticket"}
+{"level":"error","message":"Error al generar el ticket"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"error","message":" no puede ser la misma contrasena"}
+{"level":"error","message":" no puede ser la misma contrasena"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"error","message":"expiro el tiempo, debe volver a enviar el email"}
+{"level":"error","message":" no puede ser la misma contrasena"}
+{"level":"error","message":" no puede ser la misma contrasena"}
+{"level":"warn","message":" no puede ser la misma contrasena"}
+{"level":"warn","message":" no puede ser la misma contrasena"}
+{"level":"error","message":"expiro el tiempo, debe volver a enviar el email"}
+{"level":"error","message":"expiro el tiempo, debe volver a enviar el email"}
+{"level":"error","message":"expiro el tiempo, debe volver a enviar el email"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"error","message":"expiro el tiempo, debe volver a enviar el email"}
+{"level":"warn","message":" no puede ser la misma contrasena"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":" no puede ser la misma contrasena"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM no autorizado"}
+{"level":"warn","message":"PREMIUM, No puedes eliminar productos que no son tuyos"}
+{"level":"warn","message":"PREMIUM, No puedes eliminar productos que no son tuyos"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"no hay stock del producto 64d98138bb99882c6fa2cdaf"}
+{"level":"warn","message":"no hay stock del producto 64d98138bb99882c6fa2cdaf"}
+{"level":"warn","message":"no hay stock del producto 64d98138bb99882c6fa2cdaf"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"no hay stock del producto 64d95732dbac64dd34b5e600"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":" no puede ser la misma contrasena"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":{"code":7,"name":"No se consigue el ID del producto"}}
+{"level":"warn","message":{"code":7,"name":"No se consigue el ID del producto"}}
+{"level":"warn","message":{"code":7,"name":"No se consigue el ID del producto"}}
+{"level":"warn","message":{"code":7,"name":"No se consigue el ID del producto"}}
+{"level":"warn","message":{"code":7,"name":"No se consigue el ID del producto"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Error update product"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"No se elimino el producto"}}
+{"level":"warn","message":{"code":7,"name":"No se elimino el producto"}}
+{"level":"warn","message":{"code":8,"name":"Problemas al conseguir id cart"}}
+{"level":"error","message":"No se obtuvo el cart 6h9h2h3m9c4c9t1b1c9r1b9c"}
+{"level":"warn","message":{"code":8,"name":"Problema en agregar pid al cid"}}
+{"level":"error","message":"No se logro agregar el producto 64e23cfeefafcab2144a4042"}
+{"level":"warn","message":{"code":8,"name":"Probl en eliminar pid del cid"}}
+{"level":"error","message":"No se elimino el producto 64e23cfeefafcab2144a4042 del carrito"}
+{"level":"warn","message":{"code":8,"name":"Problema en agregar pid al cid"}}
+{"level":"error","message":"No se actualizo el producto [object Object]"}
+{"level":"warn","message":{"code":8,"name":"Problema en agregar pid al cid"}}
+{"level":"error","message":"No se actualizo el producto [object Object]"}
+{"level":"error","message":"No se pudo limpiar los producto del cart 64dd3e7e8fc18b4adcb42c5d"}
+{"level":"warn","message":{"code":8,"name":"Error vaciar carrito"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":{"code":7,"name":"No se elimino el producto"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":{"code":4,"name":"problemas en deslogueo"}}
+{"level":"warn","message":{"code":8,"name":"Problemas al conseguir id cart"}}
+{"level":"error","message":"No se obtuvo el cart :cid"}
+{"level":"warn","message":{"code":8,"name":"Problemas al conseguir id cart"}}
+{"level":"error","message":"No se obtuvo el cart :cid"}
+{"level":"warn","message":{"code":8,"name":"Problemas al conseguir id cart"}}
+{"level":"error","message":"No se obtuvo el cart :cid"}
+{"level":"warn","message":{"code":8,"name":"Problemas al conseguir id cart"}}
+{"level":"error","message":"No se obtuvo el cart :cid"}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":{"code":"LIMIT_UNEXPECTED_FILE","field":"profiles","message":"Unexpected field","name":"MulterError","storageErrors":[]}}
+{"level":"warn","message":{"code":"LIMIT_UNEXPECTED_FILE","field":"profiles","message":"Unexpected field","name":"MulterError","storageErrors":[]}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\documents\\documents-undefined.pdf","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\profiles\\profiles-undefined.jpg","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefined.jpg","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefined.jpg","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefinedundefined","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefinedundefined","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefinedundefined","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefinedundefined","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefined.jpg","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefined.jpg","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefined.jpg","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefined.jpg","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\img\\products\\products-undefined.jpg","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":{"code":"LIMIT_UNEXPECTED_FILE","field":"documents","message":"Unexpected field","name":"MulterError","storageErrors":[]}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":{}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{"code":"ENOENT","errno":-4058,"path":"C:\\Users\\Acer\\Desktop\\entregamitchell\\public\\documents\\userdocuments\\identification-undefined.pdf","storageErrors":[],"syscall":"open"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"error","message":"No se cargo el archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se encuentra archivos"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"no se puedo cambiar el rol "}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"no se puedo cambiar el rol "}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":{"code":"ERR_HTTP_HEADERS_SENT"}}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":{"view":{"defaultEngine":"handlebars","ext":".handlebars","name":"filedocuments","root":"views/"}}}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":{"view":{"defaultEngine":"handlebars","ext":".handlebars","name":"filedocuments","root":"views/"}}}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":{"view":{"defaultEngine":"handlebars","ext":".handlebars","name":"filedocuments","root":"views/"}}}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":{}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":{"view":{"defaultEngine":"handlebars","ext":".handlebars","name":"filedocuments","root":"views/"}}}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":{"code":7,"name":"Producto ya existe"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"EL ADMIN NO SE ELIMINA"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en login"}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"Error de autenticacion en registro"}
+{"level":"warn","message":{"code":5,"name":"Error de autenticacion"}}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"ADMIN, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":{}}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"PREMIUM, \"No puedes eliminar productos que no son tuyos\""}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"necesita cargar toda la documentacion antes de pasar a premium"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"PREMIUM, No puedes agregar tu propio producto al carrito"}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"ADMIN no autorizado"}
+{"level":"warn","message":{"code":6,"name":"Admi no usa chat"}}
+{"level":"warn","message":"no se envio ningun archivo"}
+{"level":"warn","message":"No se cargo el archivo"}
+{"level":"warn","message":{"code":11,"name":"Error file"}}

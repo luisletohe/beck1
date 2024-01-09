@@ -1,0 +1,33 @@
+<div class="container-register-user">
+    
+    {{#if autorizacionAdmin}}
+    <h1>REGISTRO DE USUARIOS</h1>
+    <div class="container">
+
+        {{#each usersAdmin}}
+
+        <div class="card-body" scope="row">
+
+            <h5 class="card-title">Name: {{first_name}}</h5>
+            <p class="card-text">Email: {{email}}</p>
+            <p class="card-text">Rol: {{rol}}</p>
+
+            <div class="grupbtn">
+                <button class="btn btn-sm btn-danger deleteUser" data-user-id="{{_id}}">ELIMINAR USUARIO</button>
+                <button class="btn btn-sm btn-success updUser" data-user-id="{{_id}}">MODIFICAR ROL</button>
+            </div>
+
+
+            
+        </div>
+        </form>
+        {{/each}}
+    </div>
+    {{else}}
+    <h1>SOLO ADMIN TIENE ACCESO A ESTE SITIO</h1>
+    {{/if}}
+
+</div>
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="/js/controlleruser.js"></script>

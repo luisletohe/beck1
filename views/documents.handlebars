@@ -1,0 +1,32 @@
+<div class="container-archivos">
+    <div class="card mb-3">
+        <div class="row g-0">
+            <div class="card-body">
+
+                <form action="/api/users/{{user._id}}/products" method="post" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label for="products" class="form-label">CARGA DE IMG DE PRODUCTOS</label>
+                        <input type="file" class="form-control" id="products" name="products">
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                    </div>
+                </form>
+
+                <form action="/api/users/{{user._id}}/profiles" method="post" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label for="profiles" class="form-label">CARGA DE IMG DE USUARIO</label>
+                        <input type="file" class="form-control" id="profiles" name="profiles">
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                    </div>
+                </form>
+
+                <form action="/api/users/{{user._id}}/documents" method="post" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label for="documents" class="form-label">CARGA DE DOCUMENTOS</label>
+                        <input type="file" class="form-control" id="documents" name="documents">
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

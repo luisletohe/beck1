@@ -1,0 +1,208 @@
+paths:
+  /api/products/:
+    get:
+      summary: Todos los productos
+      tags:
+       - Products
+      responses:
+        200:
+          description: lista de productos
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/products'
+        500:
+          description: error del servidor
+    post:
+      summary: Agregar productos
+      tags:
+        - Products
+      requestBody:
+        description: Agregar un producto
+        required: true
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+                properties:
+                  title:
+                    type: string
+                  descripcion:
+                    type: string
+                  thumbnail:
+                    type: string
+                  price:
+                    type: number
+                  code: 
+                    type: string
+                  stock: 
+                    type: number
+                example:
+                  title: Remera Vip
+                  descripcion: remera moda masculina vip
+                  thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDWTxwdqVtby0jFbEmLF6RPRsSEMNFsVx5DA&usqp=CAU
+                  price: 25000
+                  code: 124GFD
+                  stock: 25
+      responses:
+        200:
+          description: Producto agregado
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/products'
+        404:
+          description: No se logró agregar el producto
+        500:
+          description: Error del servidor  
+
+  /api/products/{uid}:
+    get:
+      summary: obtener productos por id
+      tags:
+       - Products
+      parameters:
+        - in: path
+          name: uid
+          required: true
+          description: Id del producto
+          schema:
+            type: string
+      responses:
+        200:
+          description: producto encontrado
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/products'
+        404:
+          description: no se logro conseguir el producto
+        500:
+          description: Error del servidor
+
+    put:
+      summary: actualizar un producto por id y body, no pasarlo como objeto [x] eliminar corchetes
+      tags:
+       - Products
+      parameters:
+        - in: path
+          name: uid
+      requestBody:
+        description: actualizacion del producto
+        required: true
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: array
+                properties:
+                  title:
+                    type: string
+                  descripcion:
+                    type: string
+                  thumbnail:
+                    type: string
+                  price:
+                    type: number
+                  owner:
+                    type: string
+                  code: 
+                    type: string
+                  stock: 
+                    type: number
+                example:
+                  title: Remera Vip
+                  descripcion: "remera moda masculina vip"
+                  thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDWTxwdqVtby0jFbEmLF6RPRsSEMNFsVx5DA&usqp=CAU"
+                  price: 25000
+                  owner: "USER"
+                  code: "124GFD"
+                  stock: 25  
+      responses:
+        200:
+          description: Producto actualizado
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/products'
+        404:
+          description: No se logró agregar el producto
+        500:
+          description: Error del servidor  
+
+    delete:
+      summary: eliminar un producto
+      tags:
+        - Products 
+      parameters:
+        - in: path
+          name: uid
+          requiered: true
+          description: Id del producto a eliminar
+          schema:
+            type: string
+      responses: 
+        200:
+          description: Producto actualizado
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/products'
+        400:
+          description: no se logro eliminar el producto
+        500:
+          description: Error del servidor
+      
+  
+          
+components:
+  schemas:
+    products:
+      type: object
+      properties: 
+        _id:
+          type: string
+          description: ID del producto generaro por mongoDB
+        title:
+          type: string
+          description: nombre del producto
+        descripcion:
+          type: string
+          description: descripcion del producto
+        thumbnail:
+          type: string
+          description: Link de foto del producto
+        price:
+          type: number
+          description: precio del producto
+        owner:
+          type: string
+          description: rol de identicador del vendedor 
+        code: 
+          type: string
+          description: codigo de producto
+        stock: 
+          type: number
+          description: stock del producto   
+      example:
+        id: ObjectId("6h9h2h3m9c4c9t1b1c9r1b9c")
+        title: Remera Vip
+        descripcion: "remera moda masculina vip"
+        thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDWTxwdqVtby0jFbEmLF6RPRsSEMNFsVx5DA&usqp=CAU"
+        price: 25000
+        owner: "USER"
+        code: "124GFD"
+        stock: 25   
+
+            

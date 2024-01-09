@@ -1,0 +1,203 @@
+paths:
+  /api/carts/:
+    post:
+      summary: crear un carrito
+      tags:
+        - Carts
+      responses:
+        200:
+          description: carrito creado
+          content:
+            application/json:
+             schema: 
+                $ref: '#/components/schemas/carts'
+        404:
+          description: No se logró crear el carrito
+        500:
+          description: error del servidor
+
+  /api/carts/{cid}:
+    get:
+      summary: obtener el carrito por id 
+      tags:
+        - Carts
+      parameters:
+        - in: path
+          name: cid
+          required: true
+          description: id del carrito
+      responses:
+        200:
+          description: carrito obtenido
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/carts'
+        404:
+          description: no se logro conseguir el carrito
+        500:
+          description: Error del servidor 
+
+    put:
+      summary: actualizar el carrito
+      tags:
+        - Carts
+      parameters:
+        - in: path
+          name: cid
+          required: true
+          description: ID del carrito a actualizar
+          schema:
+            type: string
+      requestBody:
+        description: Lista de nuevos productos para agregar al carrito deben de existir en MongoDb
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                products:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      product:
+                        type: string
+                        description: ID del producto a agregar
+                      quantity:
+                        type: number
+                        description: Cantidad del producto a agregar
+              example:
+                products:
+                  - product: "64efcbc02a01c815d536af1d"
+                    quantity: 4
+                  - product: "64e25118181423ee0a52eba6"
+                    quantity: 4
+      responses:
+        201:
+          description: Carrito actualizado con nuevos productos
+        500:
+          description: Error del servidor
+
+    delete:
+      summary: eliminar un carrito
+      tags:
+        - Carts 
+      parameters:
+        - in: path
+          name: cid
+          required: true
+          description: Id del cart a eliminar
+      responses:
+        200:
+          description: cart eliminado
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/carts'
+        404:
+          description: no se logro eliminar el carrito
+        500:
+          description: Error del servidor  
+      
+                  
+                  
+
+
+
+
+
+
+  /api/carts/{cid}/product/{pid}:
+    post:
+      summary: agregar productos al cart
+      tags:
+        - Carts
+      parameters:
+        - in: path
+          name: cid
+          required: true
+          schema:
+            type: string
+          description: ID del carrito
+        - in: path
+          name: pid
+          required: true
+          schema:
+            type: string
+          description: ID del producto
+      responses:
+        200:
+          description: Producto agregado al carrito
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/carts'
+        400:
+          description: Error en la solicitud
+        500:
+          description: Error del servidor 
+
+    delete:
+      summary: eliminar productos del cart
+      tags:
+        - Carts
+      parameters:
+        - in: path
+          name: cid
+          required: true
+          schema:
+            type: string
+          description: ID del carrito
+        - in: path
+          name: pid
+          required: true
+          schema:
+            type: string
+          description: ID del producto
+      responses:
+        200:
+          description: Producto eliminado al carrito
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/carts'
+        400:
+          description: Error para eliminar 
+        500:
+          description: Error del servidor
+    
+
+components:
+  schemas: 
+    carts:
+      type: object
+      properties:
+        _id:
+          type: string
+          description: ID del carrito generado por mongoDB
+        products:
+          type: array
+          items:
+            type: object
+            properties:
+              product:
+                type: object
+                description: objeto de productos 
+              quantity:
+                type: number
+                description: cantidad de productos
+      example:
+        products: [
+          {
+            product: "64e23cfeefafcab2144a4042",
+            quantity: 3,
+            _id: "64f10c77af6815c5f22d206c"
+          }
+        ]
+        _id: "6h9h2h3m9c4c9t1b1c9r1b9c"
+        __v: 0
+          

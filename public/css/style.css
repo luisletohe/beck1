@@ -1,0 +1,1101 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(10, 4, 4, 0.808);
+}
+
+.navbar-brand {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding: 5px;
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+}
+
+.logo {
+  width: 80px;
+  height: 40px;
+  margin: 10px;
+}
+
+.btn-logout {
+  display: flex;
+  padding: 5px;
+  margin: 10px;
+  justify-content: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+  font-size: 7px;
+  align-items: center;
+  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.313);
+  color: rgb(0, 0, 0);
+  border-color: rgb(229, 10, 10);
+
+}
+
+/* aqui css de los productos del index.handlebars */
+
+.container-product {
+  padding: 20px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.container-product h1 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container-product h2 {
+  color: rgb(255, 255, 255);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 12px;
+  padding-bottom: 10px;
+}
+
+.container-product .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.container-product .container .card {
+  padding: 10px;
+  background-color: rgba(172, 119, 114, 0.579);
+
+}
+
+
+
+.container-product .container .card-body h5 {
+  font-family: cursive;
+  margin: 5px;
+  color: rgb(251, 251, 251);
+}
+
+.container-product .container .card-body .card-text {
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+
+}
+
+.container-product .container .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  background-color: rgba(141, 63, 63, 0.712);
+  border-radius: 5px;
+}
+
+.container-product .container .card-body .img-product {
+  height: 210px;
+  width: 150px;
+  border-radius: 10px;
+  padding: 5px;
+
+}
+
+.container-product .container .card-body .deleteProduct {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 8px;
+  width: 120px;
+  height: 30px;
+  background-color: rgba(159, 43, 43, 0.785);
+}
+
+
+.container-product .container .card-body .addToCart {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9px;
+  width: 100px;
+  height: 25px;
+  background-color: rgba(0, 0, 0, 0.785);
+}
+
+.container-product .container .card-body .addToCart:hover {
+  background-color: rgba(0, 128, 0, 0.508);
+}
+
+/** paginacion  **/
+
+
+.page-link {
+  background-color: rgba(212, 31, 31, 0.441);
+  text-decoration: none;
+  height: 20px;
+  width: 90px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: aliceblue;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+
+/** mi register**/
+
+.container-register {
+  padding: 50px;
+  background-color: rgba(10, 4, 4, 0.808);
+}
+
+.container-register h1 {
+  color: rgba(255, 255, 255, 0.93);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.container-register .col-md-6 .form-label {
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container-register .row {
+  background-color: rgba(150, 172, 172, 0.419);
+  padding: 30px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-register .row .col-md-6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-register .row .col-12 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-register .row .btn {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 120px;
+  height: 50px;
+  margin: 10px;
+  font-size: 12px;
+  background-color: rgba(104, 30, 23, 0.607);
+}
+
+.container-register .row .btn:hover {
+  background-color: rgba(20, 23, 20, 0.656);
+
+
+}
+
+/* el login aqui */
+
+.container-login {
+  padding: 50px;
+  background-color: rgba(10, 4, 4, 0.792);
+}
+
+.img {
+  margin: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+.tex-img {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgba(53, 42, 42, 0.483);
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.container-login h1 {
+  color: rgba(255, 255, 255, 0.761);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.container-login .row {
+  background-color: rgba(150, 172, 172, 0.419);
+
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-login .row .col-md-6 .form-label {
+  color: rgba(255, 255, 255, 0.981);
+
+}
+
+
+.container-login .row .col-12 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-login .row .btn {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 120px;
+  height: 50px;
+  margin: 10px;
+  font-size: 12px;
+  background-color: rgba(104, 30, 23, 0.607);
+}
+
+.container-login .row .btn-2 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 120px;
+  height: 50px;
+  margin: 10px;
+  font-size: 10px;
+  background-color: rgb(0, 0, 0);
+}
+
+
+/* css del profile*/
+
+.btn-2 {
+  color: rgb(234, 221, 221);
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: oblique;
+}
+.btn-2:hover{
+  color: rgb(157, 221, 185);
+}
+.container-profile {
+  padding: 50px;
+  background-color: rgba(4, 10, 5, 0.808);
+}
+
+.container-profile .card {
+  background-color: rgba(150, 172, 172, 0.419);
+}
+
+
+.container-profile .card .row .card-body {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.container-profile .card .row .card-body .text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+}
+
+.container-profile .card .row .card-body .text .card-title {
+  color: white;
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container-profile .card .row .card-body .text .card-text {
+  color: aliceblue;
+}
+
+
+.container-profile .card .row .card-body .text .card-text .text-body-secondary {
+  color: aliceblue;
+}
+
+.container-profile .card .row .card-body .img-fluid {
+  border-radius: 50px;
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+
+}
+
+.card-text-2 {
+  color: rgb(197, 156, 156);
+  font-family: 'Times New Roman', Times, serif
+}
+
+/* Formulario - Chat  */
+
+#List-Message {
+  display: flex;
+  flex-direction: column-reverse
+}
+
+.container-chat {
+
+  background-color: rgba(10, 4, 4, 0.808);
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-chat .mb-3 .form-text {
+  color: white;
+}
+
+.container-chat .mb-3 .form-control {
+  margin: 20px;
+}
+
+
+.container-chat h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 20px;
+}
+
+.container-chat .mb-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(150, 172, 172, 0.419);
+  padding: 80px;
+  margin: 20px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container-chat .btn {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 100px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(56, 19, 19, 0.511);
+}
+
+
+.container-chat .container-mensaje {
+  padding: 25px;
+  border-radius: 10px;
+  display: flex;
+  height: 460px;
+  width: 460px;
+  display: inline-block;
+  overflow: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(181, 54, 54, 0.601);
+
+}
+
+.lista {
+  color: wheat;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container-chat .container-mensaje div {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgba(181, 127, 127, 0.431);
+}
+
+.container-chat .container-mensaje div .user {
+  color: rgb(33, 30, 30);
+}
+
+.container-chat .container-mensaje div p {
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container-chat .container-mensaje .Lista {
+  color: rgb(0, 0, 0);
+}
+
+
+
+/* Register Error */
+
+.container-error-register .card .row .card-body .error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 70px;
+
+}
+
+.container-error-register .card .row .card-body .btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container-error-register .card .row .card-body .error h2 {
+  font-family: cursive;
+  font-size: 20px;
+  color: rgb(221, 12, 12);
+}
+
+.container-error-register .card .row .card-body .error h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
+  color: rgb(9, 9, 9);
+}
+
+.container-error-register .card .row .card-body .btn .nav-link {
+  padding: 5px;
+  color: rgb(105, 31, 31);
+  margin: 10px;
+  border-radius: 10px;
+  font-style: oblique;
+}
+
+.container-error-register .card .row .card-body .btn .nav-link:hover {
+  color: rgb(90, 34, 34);
+}
+
+/* Carrito del cliente */
+
+
+
+.container-cart {
+  padding: 100px;
+  background-color: rgba(255, 255, 255, 0.816);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.container-cart h1 {
+
+  color: rgb(233, 14, 14);
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container-cart .cart {
+
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(235, 243, 235, 0.968);
+}
+
+.container-cart .cart div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container-cart .cart div ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.container-cart .cart div ul li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 20px;
+  list-style: none;
+  border-radius: 10px;
+  border-color: black;
+
+}
+
+
+.container-cart .cart div ul li .img-product {
+  text-decoration: none;
+
+  height: 90x;
+  width: 80px;
+  border-radius: 10px;
+}
+
+.container-cart .cart div ul li .title {
+  color: rgb(12, 12, 12);
+  font-size: 15px;
+  margin: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container-cart .cart div ul li p {
+  color: rgb(12, 12, 12);
+  font-size: 10px;
+  margin: 2px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.succesCartClient {
+  margin: 10px;
+}
+
+.totalPrice {
+  padding: 10px;
+  margin: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+/* Error del servidor */
+
+.container-error-servidor .card .row .card-body-dos .error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 100px;
+  align-items: center;
+  padding: 70px;
+
+}
+
+.container-error-servidor .card .row .card-body-dos .btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container-error-servidor .card .row .card-body-dos h1 {
+  font-family: cursive;
+  font-size: 10px;
+  color: rgb(119, 91, 91);
+}
+
+.container-error-register .card .row .card-body-dos .error h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 100px;
+  color: rgb(9, 9, 9);
+}
+
+.container-error-servidor .card .row .card-body-dos .error .btn .nav-link {
+  padding: 5px;
+  color: rgb(0, 0, 0);
+  margin: 20px;
+  border-radius: 50px;
+  font-style: oblique;
+}
+
+.container-error-servidor .card .row .card-body-dos .error .btn .nav-link:hover {
+  color: rgb(90, 34, 34);
+}
+
+
+/* error caduco el token */
+
+.container-mensaje {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+  background-color: white;
+}
+
+.container-mensaje .token {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 12px;
+  color: rgb(9, 9, 9);
+  margin: 20px;
+}
+
+.container-mensaje .img-error {
+  width: 70px;
+  height: 70px;
+}
+
+.container-mensaje a {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 12px;
+  padding: 5px;
+  color: rgb(100, 108, 113);
+  background-color: rgb(219, 200, 200);
+  border-radius: 10px;
+}
+
+
+/* ticket*/
+
+.ticketid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+}
+
+.ticketid h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgba(14, 188, 14, 0.83);
+  font-size: 20px;
+}
+
+
+.ticketid p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 10px;
+}
+
+
+/* Error ResPassword */
+
+.container-error-restpassword .card .row .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container-error-restpassword .card .row .card-body .error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-error-restpassword .card .row .card-body .error h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 10px;
+  margin: 10;
+  color: rgb(193, 37, 37);
+
+}
+
+.container-error-restpassword .card .row .card-body .error h2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgba(0, 0, 0, 0.601);
+  font-size: 20px;
+  padding: 10px;
+}
+
+.container-error-restpassword .card .row .card-body .row .col-md-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-error-restpassword .card .row .card-body .row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-error-restpassword .card .row .card-body .row .col-md-6 .form-label {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.container-error-restpassword .card .row .card-body .row .col-md-6 .form-control {
+  width: 800px;
+
+}
+
+.container-error-restpassword .card .row .card-body .row .col-12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-error-restpassword .card .row .card-body .row .col-12 .btn {
+  background-color: black;
+  margin: 10px;
+}
+
+/* emailsent */
+
+
+.container-error-emailsent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+
+}
+
+.container-error-emailsent .email {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+}
+
+.container-error-emailsent .email h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+}
+
+.container-error-emailsent .email .img-email {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
+
+/* error password */
+
+.container-errorpassword {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: aliceblue;
+}
+
+.container-errorpassword .error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.container-errorpassword .error h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  color: rgb(161, 42, 42);
+  margin-top: 30px;
+}
+
+.container-errorpassword .error h2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgba(0, 0, 0, 0.601);
+  font-size: 20px;
+  padding: 10px;
+}
+
+.container-errorpassword .btn {
+  margin-bottom: 40px;
+  padding: 10px;
+
+}
+
+.container-errorpassword .btn a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 120x;
+  height: 25px;
+}
+
+/* premium */
+
+.container-premium {
+  background-color: white;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-premium h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 10px;
+}
+
+.container-premium h2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+  padding: 10px;
+}
+
+.container-premium p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  color: rgba(255, 0, 0, 0.913);
+  font-size: 20px;
+
+}
+
+.container-premium .row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-premium .row .col-12 .btn {
+  background-color: black;
+}
+
+.container-premium .row .col-12 .btn:hover {
+  background-color: red;
+}
+
+.container-premium .card-text-2 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 12px;
+  font-size: 12px;
+  color: black;
+}
+
+
+/* myshop */
+
+
+.container-myshop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background-color: rgb(218, 199, 199);
+}
+
+.container-myshop h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 10px;
+}
+
+.container-myshop .row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container-myshop .row .col-md-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-myshop .row .col-12 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-myshop .row .col-12 .btn {
+  background-color: black;
+}
+
+
+.container-myshop .row .col-md-6 .form-control {
+  width: 300px;
+  height: 30px;
+}
+
+.errorArchivo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.errorArchivo h1 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: brown;
+  font-size: 40px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.filenamme {
+  font-size: 20px;
+  color: green;
+}
+
+/* Css de manejo de archivos */
+
+.container-archivos .card .row .card-body {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  margin: 50px;
+}
+
+
+
+.container-archivos .card .row .card-body form .mb-3 {
+  padding: 20px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-archivos .card .row .card-body form .mb-3 .form-control {
+  margin: 10px;
+}
+
+
+/* falta de archivos */
+.error-envio {
+
+  padding: 90x;
+  margin: 100px
+}
+
+.error-envio h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(116, 38, 38);
+}
+
+
+.btn-archivos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.btn-archivos .btn {
+  height: 25px;
+  background-color: rgba(189, 147, 147, 0.881);
+  border-radius: 3px;
+  margin: 10px;
+
+}
+
+
+.filenamme {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* registro de usuarios*/
+
+.container-register-user {
+  background-color: rgba(155, 72, 72, 0.655);
+  padding: 50px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.container-register-user h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-register-user .container {
+  width: 1600px;
+  display: flex;
+  
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+
+}
+
+.container-register-user .container .card-body {
+  width: 250px;
+  height: 200px;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  background-color: brown;
+  border-radius: 10px;
+
+  padding: 50px;
+  margin: 20px;
+  flex-direction: column-reverse
+}
+
+.container-register-user .container .card-body .grupbtn {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.container-register-user .container .card-body .grupbtn .btn {
+  width: 120px;
+  height: 30px;
+  font-size: 9px;
+  margin: 5px;
+}
+
+.container-register-user .container .card-body .card-title {
+  color: rgb(242, 231, 231);
+  padding: 5px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container-register-user .container .card-body .card-text {
+  color: rgb(255, 250, 250);
+  margin: 8px;
+  font-size: 14px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

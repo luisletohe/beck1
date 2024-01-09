@@ -1,0 +1,39 @@
+<div class="container-archivos">
+    <div class="card mb-3">
+        <div class="row g-0">
+            <div class="card-body">
+
+                <form action="/api/users/{{user._id}}/useridentification" method="post" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label for="identification" class="form-label">COMPROBANTE DE DOMICILIO</label>
+                        <input type="file" class="form-control" id="identification" name="identification">
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                    </div>
+                    <div>
+                        <h3 class="filenamme"> ✔ {{identification.identification}}</h3>
+                    </div>
+                </form>
+                <form action="/api/users/{{user._id}}/useraddressproof" method="post" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label for="addressproof" class="form-label">COMPROBANTE DEE ESTADO DE CUENTA</label>
+                        <input type="file" class="form-control" id="addressproof" name="addressproof">
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                    </div>
+                    <div>
+                        <h3 class="filenamme">✔ {{addressProof.addressProof}}</h3>
+                    </div>
+
+                </form>
+                <form action="/api/users/{{user._id}}/userbankstatement" method="post" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label for="bankstatement" class="form-label">IDENTIFICACION</label>
+                        <input type="file" class="form-control" id="bankstatement" name="bankstatement">
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                    </div>
+                    <div>
+                        <h3 class="filenamme">✔ {{bankStatement.bankStatement}}</h3>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>

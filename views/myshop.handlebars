@@ -1,0 +1,47 @@
+<div class="container-myshop">
+
+    <form action='/api/products/' method='post' class="row g-3">
+        <h1>Crear un nuevo producto</h1>
+        <div class="col-md-6">
+            <label for="title" class="form-label">Título</label>
+            <input type="text" class="form-control" name='title' id="title">
+        </div>
+
+        <div class="col-md-6">
+            <label for="descripcion" class="form-label">Descripción</label>
+            <input type="text" class="form-control" name='descripcion' id="descripcion">
+        </div>
+
+        <div class="col-md-6">
+            <label for="thumbnail" class="form-label">URL de la imagen</label>
+            <input type="text" class="form-control" name='thumbnail' id="thumbnail">
+        </div>
+
+        <div class="col-md-6">
+            <label for="price" class="form-label">Precio</label>
+            <input type="number" class="form-control" name='price' id="price" step="0.01">
+        </div>
+
+        <div class="col-md-6">
+            <input type='text' class='form-control' placeholder='Email' aria-label='user' name='owner'
+                value='{{user.email}}' />
+        </div>
+
+        <div class="col-md-6">
+            <label for="code" class="form-label">Código</label>
+            <input type="text" class="form-control" name='code' id="code">
+        </div>
+
+        <div class="col-md-6">
+            <label for="stock" class="form-label">Stock</label>
+            <input type="number" class="form-control" name='stock' id="stock" step="1">
+        </div>
+
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Crear Producto</button>
+        </div>
+    </form>
+
+
+  
+</div>

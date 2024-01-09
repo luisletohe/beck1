@@ -1,0 +1,33 @@
+<div class="container-premium">
+
+    {{#if autorizacionAdmin}}
+    <h1>TEN CUIDADO SOS ADMINISTRADOR</h1>
+    <p>Si cambias tu perfil a usuario, solo un admin te podria dar el acceso total nuevamente</p>
+    <form action='/api/users/premium/{{user._id}}' method='post' class="row g-3" id="reset-form">
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary cartid" id="submit-button">CAMBIATE A USUARIO</button>
+        </div>
+    </form>
+    {{else}}
+    {{#if autorizacion}}
+    <h1>WOW, TE EXTRAÑAREMOS</h1>
+    <p>Sentimos si tuviste una mala experiencia, trabajamos en tu comodidad</p>
+    <form action='/api/users/premium/{{user._id}}' method='post' class="row g-3" id="reset-form">
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary cartid" id="submit-button">CAMBIATE A USUARIO</button>
+        </div>
+    </form>
+    {{else}}
+    <h1>Hazte premium con tan solo un clic</h1>
+    <h2>Empieza a vender ya!</h2>
+    <p>Puedes subir todos tus productos y ser parte de la tendencia V.I.P </p>
+    <form action='/api/users/premium/{{user._id}}' method='post' class="row g-3" id="reset-form">
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary cartid" id="submit-button">CAMBIATE A PREMIUM</button>
+        </div>
+    </form>
+    {{/if}}
+    {{/if}}
+
+    <p class="card-text-2">Se cerrara la sesión automaticamente para los cambios</p>
+</div>

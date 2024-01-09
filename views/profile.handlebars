@@ -1,0 +1,30 @@
+<div class="container-profile">
+
+    <div class="card mb-3">
+        <div class="row g-0">
+            <div class="card-body">
+                <img src="{{user.img}}" class="img-fluid " alt="...">
+                <div class="text">
+                    <h5 class="card-title">¡Bienvenido de nuevo! {{user.first_name}} {{user.last_name}}</h5>
+                    <p class="card-text">
+
+                        Nos alegra verte de vuelta en tu cuenta. Queremos recordarte que estás utilizando el correo
+                        electrónico registrado: <strong style="color: rgb(247, 244, 244);">{{user.email}}</strong>.
+                        <br>
+                        Estamos aquí para ayudarte en lo que necesites. Si tienes alguna duda o consulta, 
+                        puedes dejarnos un mensaje  <a href='/chat' type='submit' class='btn-2'>ACA</a>.
+                        ¡Disfruta de tu experiencia en nuestra plataforma!
+
+                        Saludos cordiales,</p>
+                    <p class="card-text-2">Última actualización {{user.last_connection}}</p>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script src="/js/profile.js"></script>
+
